@@ -1,4 +1,5 @@
 package src.loop;
+//格式：for(变量初始化 i;boolean表达式2；循环体之后的语句4）{ 循环体3;}
 
 public class loop {
     public static void main(String[] args) {
