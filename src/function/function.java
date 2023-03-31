@@ -1,4 +1,5 @@
 package src.function;
+//格式：修饰符 返回值 方法名（参数列表）{方法体}
 
 public class function {
     public static void main(String[] args) {
